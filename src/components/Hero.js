@@ -1,4 +1,4 @@
-import React, {startTransition} from 'react';
+import React from 'react';
 import {heroData} from '../data';
 import Header from './Header';
 import {motion} from 'framer-motion';
